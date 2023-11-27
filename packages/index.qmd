@@ -1,0 +1,8 @@
+---
+page-title: NASCol - Packages
+toc: true
+listing:
+    template: custom.ejs
+    contents:
+        - packages.yml
+---

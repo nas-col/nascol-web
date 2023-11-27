@@ -1,0 +1,49 @@
+project:
+  type: website
+
+website:
+  title: "NASCol - Network Analysis Software Collective"
+  favicon: /static/img/favicon.ico
+  description: "Network Analysis Software Collective"
+  site-url: "https://NASC.net"
+  twitter-card: 
+    title: "NASCol - Network Analysis Software Collective"
+    description: "Network Analysis Software Collective"
+    image: /logo/logo.png
+    image-alt: NASC logo
+  open-graph: 
+    title: "NASCol - Network Analysis Software Collective"
+    description: "Network Analysis Software Collective"
+    image: /logo/logo.png
+    image-alt: logo
+  navbar:
+    logo: /logo/logo_blank.png
+    logo-alt: logo of NASCol
+    right:
+      - text: About us
+        href: about.qmd
+      - text: Members
+        href: members/
+      - text: Packages
+        href: packages/
+      - text: Blog
+        href: blog.qmd
+      - text: Discourse
+        href: https://nascol.discourse.group/
+      - icon: github
+        href: https://github.com/schochastics/nasc
+  page-footer:
+    center:
+      - text: "powered by Quarto"
+        href: https://quarto.org
+    right:
+      - text: "© Copyright 2023 NASCol"
+format:
+  html:
+    theme: 
+      dark: [cosmo, nasc-dark.scss]
+      light: [cosmo, nasc-light.scss]
+    css: styles.css 
+
+
+

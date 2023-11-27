@@ -1,0 +1,114 @@
+- category: Python
+  tiles:
+    - name: graph-tool
+      href: "https://graph-tool.skewed.de/" 
+      img: graph-tool.svg
+      description: |
+        Graph-tool is an efficient Python module for manipulation and statistical
+        analysis of graphs. Contrary to most other Python modules with similar
+        functionality, the core data structures and algorithms are implemented in
+        C++, making extensive use of template metaprogramming, based heavily on
+        the Boost Graph Library. This confers it a level of performance that is
+        comparable (both in memory usage and computation time) to that of a pure C/C++ library. 
+    - name: NetworKit
+      href: https://networkit.github.io/
+      img: networkit.png
+      description: |
+        NetworKit is a growing open-source toolkit for large-scale network
+        analysis. 
+        Its aim is to provide tools for the analysis of large networks in the
+        size range 
+        from thousands to billions of edges. For this purpose, it implements
+        efficient graph algorithms, 
+        many of them parallel to utilize multicore architectures.
+    - name: NetworkX
+      href: "https://networkx.org/"
+      img: networkx.svg
+      description: |
+        NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
+    - name: textnets
+      href: https://textnets.readthedocs.io/en/stable/
+      img:  textnets.svg
+      description: |
+        textnets represents collections of texts as networks of documents and words. This provides novel possibilities for the visualization and analysis of texts.
+- category: R
+  tiles:
+    - name: statnet
+      href: "https://statnet.org/"
+      img: statnet.png
+      description: |
+        The statnet project publishes a suite of open source R-based software
+        packages for network analysis
+    - name: graphlayouts
+      href: "https://schochastics.github.io/graphlayouts/"
+      img: graphlayouts.png
+      description: |
+        This package implements some graph layout algorithms
+    - name: netrankr
+      href: "https://schochastics.github.io/netrankr/"
+      img: netrankr.png
+      description: |
+        Implements methods for centrality related analyses of networks. 
+        While the package includes the possibility to build more than 20 indices, 
+        its main focus lies on index-free assessment of centrality via partial 
+        rankings obtained by neighborhood-inclusion or positional dominance
+    - name: signnet
+      href: "https://schochastics.github.io/signnet/"
+      img: signnet.png
+      description: |
+        The package provides methods to analyse signed networks (i.e. networks with both positive and negative ties)
+    - name: snahelper
+      href: "https://schochastics.github.io/snahelper/"
+      img: snahelper.png
+      description: |
+        snahelper provides a set RStudio Addin for social network analysis
+    - name: networkdata
+      href: "https://schochastics.github.io/networkdata/"
+      img: networkdata.png
+      description: |
+        The package contains a large variety of different network datasets
+    - name: edgebundle
+      href: "https://schochastics.github.io/edgebundle/"
+      img: edgebundle.png
+      description: |
+        An R package that implements several edge bundling/flow and metro map algorithms
+    - name: netUtils
+      href: "https://schochastics.github.io/netUtils/"
+      img: netUtils.png
+      description: |
+        netUtils is a collection of tools for network analysis that may not deserve a package on their own and/or are missing from other network packages.
+    - name: rgraph6
+      href: "https://mbojan.github.io/rgraph6/"
+      img: rgraph6.png
+      description: |
+        Functions in this package allow for encoding network data as strings of printable ASCII characters and back using graph6, sparse6, and digraph6 formats
+- category: Multiplatform or standalone
+  tiles:
+    - name: igraph
+      href: https://igraph.org/
+      img: igraph.svg
+      description: |
+        igraph is a collection of network analysis tools with the emphasis on
+        efficiency,
+        portability and ease of use. igraph is open source and free. igraph can
+        be programmed in R, Python, Mathematica and C/C++.
+    - name: Gephi
+      href: "https://gephi.org/"
+      img: gephi.png
+      description: |
+        Gephi is the leading visualization and exploration software for all kinds of graphs and networks. 
+    - name: Pajek
+      href: "http://mrvar.fdv.uni-lj.si/pajek/"
+      img: pajek.gif 
+      description: |
+           Analysis and visualization of very large networks
+    - name: NodeXL
+      href: "https://nodexl.com/" 
+      img: nodexl.png
+      description: |
+        NodeXL makes it easy to explore, analyze and visualize network graphs in Microsoft Office Excel
+    - name: SocNetV
+      href: "https://socnetv.org/"
+      img: placeholder.png
+      description: |
+        Social Network Analysis and Visualization Software

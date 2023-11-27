@@ -1,0 +1,41 @@
+```{=html}
+
+<style>
+    #gallery {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        column-gap: 1%;
+        row-gap: 1%;
+    }
+
+    .item {
+        padding: 1%;
+    }
+</style>
+
+<div id="gallery">
+    <% for (const item of items) { %>
+        <div class="item">
+            <h3 style="text-align: center;">
+                <%= item.name %>
+            </h3>
+            <p style="text-align: center;">
+                <%= item.affil %>
+            </p>
+            <% if (item.package) { %>
+                <b>Package: </b> <%= item.package %> <br>
+            <% } %>
+            <% if (item.href) { %>
+                <a href="<%- item.href %>"><i class="bi bi-house-door-fill"></i></a>
+                <% } %>
+                <% if (item.twitter) { %>
+                    <a href="https://twitter.com/<%- item.twitter %>"><i
+                            class="bi bi-twitter-x"></i></a>
+                <% } %>
+                <% if (item.mastodon) { %>
+                    <a href="<%- item.mastodon %>"><i class="bi bi-mastodon"></i></a>
+                <% } %>
+        </div>
+    <% } %>
+</div>
+```

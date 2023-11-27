@@ -1,0 +1,39 @@
+```{=html}
+
+<style>
+    #packages {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(min(300px, 100%), 1fr));
+        grid-template-rows: max-content;
+        grid-gap: 10px;
+    }
+
+    .item {
+        padding: 1%;
+    }
+</style>
+<% for (const item of items) { %>
+
+    <h2><%- item.category %></h2>
+    <div id="packages">
+        <% for (const tile of item.tiles) { %>
+            <div class="item">
+                <p class="card-img-top">
+                    <a href="<%= tile.href %>">
+                    <img src="logos/<%= tile.img %>" class="thumbnail-image
+                    card-img" style="width: 100%;">
+                    </a>
+                </p>
+                <h3 style="text-align: center;">
+                    <%= tile.name %>
+                </h3>
+                <p style="text-align: left;">
+                    <%= tile.description %>
+                </p>
+            </div>
+        <% } %>
+    </div>
+<% } %>
+```
+
+

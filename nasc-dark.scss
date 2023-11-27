@@ -1,0 +1,41 @@
+/*-- scss:defaults --*/
+$body-bg: #383A3F !default;
+$body-color: white;
+$link-color: white;
+$font-family-sans-serif: 'OpenSans';
+$font-family-monospace: 'Poppins';
+
+$navbar-bg: #383A3F;
+$navbar-fg: #FF9800;
+$navbar-hl: #E58800;
+
+/*-- scss:rules --*/
+@font-face {
+    font-family: 'RobotoSlab';
+    src: url('assets/fonts/robotoslab-variablefont_wght-webfont.woff2') format('woff2'),
+        url('assets/fonts/robotoslab-variablefont_wght-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url('assets/fonts/opensans-variablefont_wdthwght-webfont.woff2') format('woff2'),
+        url('assets/fonts/opensans-variablefont_wdthwght-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* css styles */
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'RobotoSlab';
+    color: #FF9800;
+}
+
+.item {
+    border: 1px solid #FF9800;
+}
