@@ -5,7 +5,6 @@ website:
   title: "NASCol - Network Analysis Software Collective"
   favicon: assets/favicon.ico
   description: "Network Analysis Software Collective"
-  site-url: "https://NASC.net"
   twitter-card: 
     title: "NASCol - Network Analysis Software Collective"
     description: "Network Analysis Software Collective"
@@ -44,6 +43,5 @@ format:
       dark: [cosmo, nasc-dark.scss]
       light: [cosmo, nasc-light.scss]
     css: styles.css 
-
-
-
+execute:
+  freeze: auto
