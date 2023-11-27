@@ -30,7 +30,7 @@ website:
       - text: Discourse
         href: https://nascol.discourse.group/
       - icon: github
-        href: https://github.com/schochastics/nasc
+        href: https://github.com/nas-col/nascol-web
   page-footer:
     center:
       - text: "powered by Quarto"
