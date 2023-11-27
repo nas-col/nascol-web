@@ -9,15 +9,15 @@ website:
   twitter-card: 
     title: "NASCol - Network Analysis Software Collective"
     description: "Network Analysis Software Collective"
-    image: /logo/logo.png
+    image: /assets/logo/logo.png
     image-alt: NASC logo
   open-graph: 
     title: "NASCol - Network Analysis Software Collective"
     description: "Network Analysis Software Collective"
-    image: /logo/logo.png
+    image: /assets/logo/logo.png
     image-alt: logo
   navbar:
-    logo: /logo/logo_blank.png
+    logo: /assets/logo/logo_blank.png
     logo-alt: logo of NASCol
     right:
       - text: About us
