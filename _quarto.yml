@@ -3,21 +3,21 @@ project:
 
 website:
   title: "NASCol - Network Analysis Software Collective"
-  favicon: /static/img/favicon.ico
+  favicon: assets/favicon.ico
   description: "Network Analysis Software Collective"
   site-url: "https://NASC.net"
   twitter-card: 
     title: "NASCol - Network Analysis Software Collective"
     description: "Network Analysis Software Collective"
-    image: /assets/logo/logo.png
+    image: assets/logo/logo.png
     image-alt: NASC logo
   open-graph: 
     title: "NASCol - Network Analysis Software Collective"
     description: "Network Analysis Software Collective"
-    image: /assets/logo/logo.png
+    image: assets/logo/logo.png
     image-alt: logo
   navbar:
-    logo: /assets/logo/logo_blank.png
+    logo: assets/logo/logo_blank.png
     logo-alt: logo of NASCol
     right:
       - text: About us

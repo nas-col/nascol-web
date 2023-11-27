@@ -1,33 +1,81 @@
 - name: David Schoch
-  affil: GESIS - Leibniz Institute for the Social Sciences
+  affil: GESIS - Leibniz Institute for the Social Sciences, Germany
   href: "https://mr./schochastics.net"
   twitter: schochastics
   mastodon: "https://fosstodon.org/@schochastics"
-  package: multiple R packages
 - name: Vincent Traag
-  affil: Leiden University
+  affil: Leiden University, Netherlands
   href: "https://www.traag.net/"
   mastodon: https://social.cwts.nl/@vtraag
-  package: igraph
-- name: Jarrod Millman 
+- name: Jarrod Millman
+  affil: UC Berkeley, USA
+  href: "https://www.jarrodmillman.com/"
+  twitter: jarrodmillman
 - name: Tiago Peixoto 
+  affil:  Central European University Vienna, Austria
+  href: "https://skewed.de/tiago"
+  twitter: tiagopeixoto
+  mastodon: "https://social.skewed.de/@tiago"
 - name: Michał Bojanowski 
+  affil: Kozminski University, Poland
+  href: "https://michalbojanowski.com/"
+  twitter: mbojan
+  mastodon: "https://sciences.social/web/@mbojan"
 - name: Mathieu Bastian 
+  affil: GetYourGuide
+  href: 
+  twitter: mathieubastian
 - name: Vladimir Batagelj 
+  affil: University of Ljubljana, Slovenia
+  href: "http://vlado.fmf.uni-lj.si/vlado/vladonet.htm"
+  twitter:
 - name: Henning Meyerhenke 
+  affil: Humboldt-Universität zu Berlin, Germany
+  href: "https://www.informatik.hu-berlin.de/de/forschung/gebiete/macsy/Team/meyerhenke"
 - name: NodeXL Information 
 - name: Dimitris Kalamaras 
+  affil: freelance developer
+  href: "https://dimitris.apeiro.gr/"
 - name: Willem van Hage 
+  affil: eScience Center, Netherlands
+  href: "https://www.esciencecenter.nl/team/dr-willem-van-hage/"
 - name: John D. Boy 
+  affil: Leiden University, Netherlands
+  href: "https://www.jboy.space/about.html"
 - name: Szabolcs Horvát 
+  affil: Center for Systems Biology Dresden, Germany
+  href: "http://szhorvat.net/pelican/"
 - name: Tamas Nepusz 
+  affil: Eötvös Loránd University, Hungary
 - name: Kirill Müller 
+  affil: cynkra, Switzerland
+  href:
+  twitter: krlmlr
+  mastodon: "https://fosstodon.org/@kirill"
 - name: Michael Page 
+  affil: cynkra 
 - name: Kwun Hang Lai 
+  affil: Leiden University, Netherlands
 - name: Eugenia Perekhodko
+  affil: Northeastern University, USA
+  twitter: DrPerekhodko
 - name: Frank Takes 
+  affil: Leiden University, Netherlands
+  href: "https://franktakes.nl/"
+  twitter: franktakes
 - name: Hanjo Boekhout 
+  affil: Leiden University, Netherlands
+  href: "https://www.universiteitleiden.nl/en/staffmembers/hanjo-boekhout#tab-1"
 - name: Fabio Zanini 
+  affil: UNSW Sydney, Australia
+  href: "https://fabilab.org"
+  twitter: fabiousername
 - name: Daniël Noom 
 - name: Brooke Foucault Welles 
+  affil: Northeastern University, USA
+  href: "http://brooke-welles.squarespace.com/"
+  twitter: foucaultwelles
+  mastodon: "https://hci.social/@foucaultwelles"
+  package: igraph
 - name: Kendra Lange 
+  affil: Northeastern University, USA

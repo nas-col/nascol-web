@@ -2,9 +2,9 @@
 page-title: "About"
 ---
 
-![](logo/logo_nobg.png)
+![](assets/logo/logo_nobg.png)
 
 # Who we are
 
-The Network Analysis Software Collective is a group of Developers dedicated to make 
+The Network Analysis Software Collective is a group of developers and scholars dedicated to make 
 network analysis software sustainable. 
