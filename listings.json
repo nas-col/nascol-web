@@ -1,10 +1,6 @@
 [
   {
-    "listing": "/members/index.html",
-    "items": []
-  },
-  {
-    "listing": "/index.html",
+    "listing": "/blog.html",
     "items": [
       "/posts/welcome/index.html"
     ]
@@ -14,7 +10,7 @@
     "items": []
   },
   {
-    "listing": "/blog.html",
+    "listing": "/index.html",
     "items": [
       "/posts/welcome/index.html"
     ]
