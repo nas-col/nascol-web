@@ -21,8 +21,6 @@ website:
     right:
       - text: About us
         href: about.qmd
-      - text: Members
-        href: members/
       - text: Packages
         href: packages/
       - text: Blog
