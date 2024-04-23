@@ -6,5 +6,10 @@ page-title: "About"
 
 # Who we are
 
-The Network Analysis Software Collective is a group of developers and scholars dedicated to make 
-network analysis software sustainable. 
+The Network Analysis Software Collective is a group of packages, developers and scholars dedicated to make
+network analysis software sustainable. The packages that are participating in the collective can be found under [Packages](packages/).
+
+# Contact
+
+You can reach the collective at [info@nascol.net](mailto:info@nascol.net).
+If a package is interested in joining the collective, please reach out.
