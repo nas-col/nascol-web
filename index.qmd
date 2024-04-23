@@ -15,7 +15,7 @@ title-block-banner: true
 
 # Welcome
 
-Welcome to the Network Analysis Software Collective (NASCol). Our mission is to foster the sustainability of network analysis software. The power of network analysis is undeniable, offering insights that drive innovation across many different research areas. The NASCol believes in the transformative potential of open-source software to make advanced network analysis accessible, reliable, and enduring. By uniting developers, researchers, and enthusiasts in a collaborative ecosystem, we dedicate ourselves to the continuous development, maintenance, and enhancement of tools that stand the test of time. Join us in building a future where network analysis is an open resource for all, empowering discovery and progress.
+Welcome to the Network Analysis Software Collective (NASCol). Our mission is to foster the sustainability of network analysis software. The power of network analysis is undeniable, offering insights that drive innovation across many different research areas. NASCol believes in the transformative potential of open-source software to make advanced network analysis accessible, reliable, and enduring. By uniting developers, researchers, and enthusiasts in a collaborative collective, we dedicate ourselves to the continuous development, maintenance, and enhancement of tools that stand the test of time. Join us in building a future where network analysis is an open resource for all, empowering discovery and progress.
 
 :::{.center-x}
 ![](assets/logo/logo_nobg.png){width=50%}
