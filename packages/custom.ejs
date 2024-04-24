@@ -3,13 +3,29 @@
 <style>
     #packages {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(min(300px, 100%), 1fr));
+        grid-template-columns: repeat(auto-fill, minmax(min(200px, 100%), 1fr));
         grid-template-rows: max-content;
         grid-gap: 10px;
     }
 
     .item {
         padding: 1%;
+    }
+
+    .item img {
+        max-height: 100%;
+        max-width: 100%;
+        position: relative;
+        transform: translateY(-50%);
+    }
+
+    .card-img-top {
+        aspect-ratio: 1 / 1;
+    }
+
+    .card-img-top a {
+        position: relative;
+        top: 50%;
     }
 </style>
 <% for (const item of items) { %>
@@ -21,13 +37,13 @@
                 <p class="card-img-top">
                     <a href="<%= tile.href %>">
                     <img src="logos/<%= tile.img %>" class="thumbnail-image
-                    card-img" style="width: 100%;">
+                    card-img">
                     </a>
                 </p>
                 <h3 style="text-align: center;">
                     <%= tile.name %>
                 </h3>
-                <p style="text-align: left;">
+                <p style="text-align: left; font-size: small;">
                     <%= tile.description %>
                 </p>
             </div>

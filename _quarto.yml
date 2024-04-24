@@ -37,9 +37,9 @@ website:
       - text: "© Copyright 2023 NASCol"
 format:
   html:
-    theme: 
-      dark: [cosmo, nasc-dark.scss]
+    theme:
       light: [cosmo, nasc-light.scss]
+      dark: [cosmo, nasc-dark.scss]
     css: styles.css 
 execute:
   freeze: auto
