@@ -2,7 +2,7 @@
 page-title: "About"
 ---
 
-![](assets/logo/logo_nobg.png)
+![](assets/logo/logo_nobg.png){fig-align="center" height=300}
 
 # Who we are
 
