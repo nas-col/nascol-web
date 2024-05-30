@@ -31,6 +31,14 @@
       img:  textnets.svg
       description: |
         textnets represents collections of texts as networks of documents and words. This provides novel possibilities for the visualization and analysis of texts.
+    - name: Raphtory
+      href: "https://www.raphtory.com/"
+      img: raphtory-wide.png
+      description: |
+        Raphtory is a Python package for the storage, modelling and analysis of temporal graphs/networks. It supports a very wide notion of temporal network 
+        including link-streams, edges with duration and sequences of network snapshots, complemented with an expressive API for analysing the graph over different
+        times and timescales. Written with scalability to large networks in mind, its core engine is written in Rust to enable memory-efficient and fast 
+        computation but is wrapped in a Python module so that no Rust knowledge is required.
 - category: R
   tiles:
     - name: statnet
