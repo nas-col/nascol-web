@@ -127,3 +127,8 @@
       img: placeholder.png
       description: |
         Social Network Analysis and Visualization Software
+    - name: Cytoscape
+      href: https://cytoscape.org
+      img: cytoscape_logo_512.png
+      description: |
+        Cytoscape is a free, open source software platform for visualizing complex networks and integrating diverse types of data. Over 350 apps are available for various kinds of problem domains, including biomedical research and social network analysis.
