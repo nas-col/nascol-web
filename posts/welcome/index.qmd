@@ -108,7 +108,7 @@ One interesting suggestion for funding revolves around academic users,
 which most likely represent a large share of the total user base. Many
 researchers apply for funding to do research, and grants typically cover
 salaries of researchers and travel costs. However, grants can often also
-cover other things infrastructure costs. Many of the network analysis
+cover other things, such as infrastructure costs. Many of the network analysis
 packages are open, and free to use. But what if a fraction, say 1% of a
 grant, would be reserved to support the software packages it intends to
 use in its research?
