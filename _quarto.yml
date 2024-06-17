@@ -25,6 +25,10 @@ website:
         href: packages/
       - text: Blog
         href: blog.qmd
+      - text: Events
+        menu:
+          - text: NetSci 2024 Satellite Workshop
+            href: https://netsci.nascol.net/
       - text: Discourse
         href: https://nascol.discourse.group/
       - icon: github
