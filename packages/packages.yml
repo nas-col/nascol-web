@@ -39,6 +39,13 @@
         including link-streams, edges with duration and sequences of network snapshots, complemented with an expressive API for analysing the graph over different
         times and timescales. Written with scalability to large networks in mind, its core engine is written in Rust to enable memory-efficient and fast 
         computation but is wrapped in a Python module so that no Rust knowledge is required.
+    - name: netin
+      href: "https://pypi.org/project/netin"
+      img: netin.png
+      description: |
+        NetIn is a python package for network inference.
+        It is based on the NetworkX package and provides a set of methods to study network inequalities.
+        The package is growing andwill be updated regularly.
 - category: R
   tiles:
     - name: statnet
