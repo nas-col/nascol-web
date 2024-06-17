@@ -1,1 +1,1 @@
-Sitemap: https://nas-col.github.io/nascol-web/sitemap.xml
+Sitemap: https://www.nascol.net/sitemap.xml
