@@ -46,6 +46,13 @@
         NetIn is a python package for network inference.
         It is based on the NetworkX package and provides a set of methods to study network inequalities.
         The package is growing andwill be updated regularly.
+    - name: XGI
+      href: "https://xgi.readthedocs.io"
+      img: xgi.svg
+      description: |
+        The CompleX Group Interactions (XGI) library provides
+        data structures and algorithms for modeling and analyzing
+        complex systems with group (higher-order) interactions.
 - category: R
   tiles:
     - name: statnet
