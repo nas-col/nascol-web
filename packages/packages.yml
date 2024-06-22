@@ -103,7 +103,35 @@
       href: "https://mbojan.github.io/rgraph6/"
       img: rgraph6.png
       description: |
-        Functions in this package allow for encoding network data as strings of printable ASCII characters and back using graph6, sparse6, and digraph6 formats
+        Functions in this package allow for encoding network data as strings of
+        printable ASCII characters and back using graph6, sparse6, and digraph6
+        formats
+    - name: backbone
+      href: "https://github.com/zpneal/backbone"
+      img: backbone.png
+      description: |
+         An implementation of methods for extracting an unweighted unipartite
+         graph (i.e. a backbone) from an unweighted unipartite graph, a weighted
+         unipartite graph, the projection of an unweighted bipartite graph,
+         or the projection of a weighted bipartite graph 
+    - name: incidentally
+      href: "https://github.com/zpneal/incidentally"
+      img: incidentally.png
+      description: |
+        Functions to generate incidence matrices and bipartite graphs that have
+        (1) a fixed fill rate, (2) given marginal sums, (3) marginal sums that
+        follow given distributions, or (4) represent bill sponsorships in the US
+        Congress. It can also generate an incidence
+        matrix from an adjacency matrix, or bipartite graph from a unipartite
+        graph, via a social process mirroring team, group, or organization
+        formation
+    - name: grand
+      href: "https://github.com/zpneal/grand"
+      img: grand.png
+      description: |
+        Interactively applies the Guidelines for Reporting About Network Data
+        (GRAND) to an igraph object, and generates a uniform narrative or
+        tabular description of the object.
 - category: Multiplatform or standalone
   tiles:
     - name: igraph
