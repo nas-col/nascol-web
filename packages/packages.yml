@@ -53,6 +53,35 @@
         The CompleX Group Interactions (XGI) library provides
         data structures and algorithms for modeling and analyzing
         complex systems with group (higher-order) interactions.
+    - name: CDlib
+      href: "https://cdlib.readthedocs.io"
+      img: cdlib.svg
+      description: |
+        Community Detection Library (CDlib) is a python library that provides
+        a set of reference implementations of community discovery algorithms
+        for complex (static and dynamic) networks - along with evaluation and visualization tools.
+    - name: NDlib
+      href: "https://ndlib.readthedocs.io"
+      img: ndlib.svg
+      description: |
+        Network Diffusion Library (NDlib) is a python library that provides
+        a reference implementation of agent-based diffusion dynamics 
+        (Epidemics and Opinion Dynamics) on complex networks.
+    - name: DyNetX
+      href: "https://dynetx.readthedocs.io"
+      img: dynetx.svg
+      description: |
+        DyNetX is a Python library for dynamic network analysis. It provides
+        data structures and algorithms for modeling and analyzing dynamic
+        network topologies (Stream and Snapshot Graphs).
+    - name: ASH
+      href: "https://ash-model.readthedocs.io"
+      img: ash.svg
+      description: |
+        ASH is a Python library for the analysis Attributed Streaming Hypergraphs (ASH).
+        It provides data structures and algorithms for modeling and analyzing dynamic 
+        hypergraphs with node attributes.
+
 - category: R
   tiles:
     - name: statnet
