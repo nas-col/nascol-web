@@ -78,7 +78,7 @@
       href: "https://ash-model.readthedocs.io"
       img: ash.svg
       description: |
-        ASH is a Python library for the analysis Attributed Streaming Hypergraphs (ASH).
+        ASH is a Python library for the analysis of Attributed Streaming Hypergraphs (ASH).
         It provides data structures and algorithms for modeling and analyzing dynamic 
         hypergraphs with node attributes.
 
