@@ -233,7 +233,7 @@
         individuals, and size-related factors.
     - name: netdiffuseR
       href: "https://github.com/USCCANA/netdiffuseR"
-      img: netdiffuseR.png
+      img: netdiffuser.png
       description: |
         netdiffuseR is a package for the analysis of diffusion and contagion
         processes on networks. The package provides tools to simulate, analyze
