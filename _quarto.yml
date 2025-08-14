@@ -27,7 +27,7 @@ website:
         href: blog.qmd
       - text: Events
         menu:
-          - text: NetSci 2024 Satellite Workshop
+          - text: NetSci Satellite Workshop
             href: https://netsci.nascol.net/
       - text: Forum
         href: https://forum.nascol.net/
