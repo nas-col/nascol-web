@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.nascol.net/posts/welcome/index.html</loc>
-    <lastmod>2025-02-05T18:56:23.638Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nascol.net/index.html</loc>
-    <lastmod>2025-02-05T18:56:23.608Z</lastmod>
+    <loc>https://www.nascol.net/blog.html</loc>
+    <lastmod>2025-08-14T12:00:53.312Z</lastmod>
   </url>
   <url>
     <loc>https://www.nascol.net/about.html</loc>
-    <lastmod>2025-02-05T18:56:23.603Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nascol.net/blog.html</loc>
-    <lastmod>2025-02-05T18:56:23.608Z</lastmod>
+    <lastmod>2025-08-14T12:00:53.307Z</lastmod>
   </url>
   <url>
     <loc>https://www.nascol.net/packages/index.html</loc>
-    <lastmod>2025-02-05T18:56:23.608Z</lastmod>
+    <lastmod>2025-08-14T12:00:53.312Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nascol.net/posts/welcome/index.html</loc>
+    <lastmod>2025-08-14T12:00:53.341Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nascol.net/index.html</loc>
+    <lastmod>2025-08-14T12:00:53.312Z</lastmod>
   </url>
 </urlset>
