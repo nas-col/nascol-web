@@ -30,7 +30,7 @@ website:
           - text: NetSci 2024 Satellite Workshop
             href: https://netsci.nascol.net/
       - text: Forum
-        href: https://nascol.discourse.group/
+        href: https://forum.nascol.net/
       - icon: github
         href: https://github.com/nas-col/nascol-web
   page-footer:
